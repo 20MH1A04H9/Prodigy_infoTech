@@ -66,5 +66,4 @@ A keylogger, sometimes called a keystroke logger, is a type of surveillance tech
 Let's talk! I'd love to hear from you!, email contact@prodigyinfotech.dev 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![Logo](https://github.com/20MH1A04H9/Prodigy_infoTech/blob/main/Task2/bytearray/infotech.jpg)
