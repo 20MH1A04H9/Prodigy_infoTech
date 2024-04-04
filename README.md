@@ -1,5 +1,5 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-# Prodigy_infoTech
+![Logo](https://github.com/20MH1A04H9/Prodigy_infoTech/blob/main/Task1/info.jpg)
+# Prodigy_InfoTech
 
 Welcome to ProdigyInfoTech's Cybersecurity Projects Repository!
 
@@ -31,10 +31,11 @@ Here you'll find a selection of unique initiatives I created during my internshi
 
 [Password Complexity Checker](https://linktodocumentation)
 
-## Acknowledgements
+## Features of Code:
 
  - [Implement caesar cipher](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
- The Caesar cipher is a simple encryption technique. It operates by moving the letters in the plaintext message by a predetermined number of positions, called as the "shift" or "key".
+
+The Caesar cipher is a simple encryption technique. It operates by moving the letters in the plaintext message by a predetermined number of positions, called as the "shift" or "key".
 
 Here is an example of how to use the Caesar cipher to encrypt the message “HELLO” with a shift of 3:
 Write down the plaintext message: HELLO
@@ -60,6 +61,7 @@ The Cyber Security Agency of Singapore has created a checker that estimates the 
 A keylogger, sometimes called a keystroke logger, is a type of surveillance technology used to monitor and record each keystroke on a specific device, such as a computer or smartphone
 
 - [Password Complexity Checker](https://www.geeksforgeeks.org/python-program-check-validity-password/)
+This checker from the Cyber Security Agency of Singapore shows how long it would take cyber criminals to crack a password. It's for educational purposes only, and doesn't save or store passwords.
 
 ## Support
 
