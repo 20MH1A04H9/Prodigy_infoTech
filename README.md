@@ -25,7 +25,7 @@ Here you'll find a selection of unique initiatives I created during my internshi
 
 [Pixel Mainpulation for image Encryption](https://github.com/20MH1A04H9/Prodigy_infoTech/tree/main/Task2)
 
-[Password Complexity Checker](https://linktodocumentation)
+[Password Complexity Checker](https://github.com/20MH1A04H9/Prodigy_infoTech/tree/main/Tech3)
 
 [Simple Keylogger](https://linktodocumentation)
 
