@@ -16,7 +16,7 @@ Here you'll find a selection of unique initiatives I created during my internshi
 
 - Simple Keylogger
 
-- Password Complexity Checker
+- Network Packet Analyzer
 
 
 ## Code
@@ -29,7 +29,7 @@ Here you'll find a selection of unique initiatives I created during my internshi
 
 [Simple Keylogger](https://linktodocumentation)
 
-[Password Complexity Checker](https://linktodocumentation)
+[Network Packet Analyzer](https://linktodocumentation)
 
 ## References:
 
