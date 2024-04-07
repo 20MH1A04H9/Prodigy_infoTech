@@ -59,9 +59,12 @@ The Cyber Security Agency of Singapore has created a checker that estimates the 
 
 - [Simple Keylogger](https://github.com/GiacomoLaw/Keylogger?)
 A keylogger, sometimes called a keystroke logger, is a type of surveillance technology used to monitor and record each keystroke on a specific device, such as a computer or smartphone
+## Screenshots
 
-- [Password Complexity Checker](https://www.geeksforgeeks.org/python-program-check-validity-password/)
-This checker from the Cyber Security Agency of Singapore shows how long it would take cyber criminals to crack a password. It's for educational purposes only, and doesn't save or store passwords.
+![Keylogger](https://github.com/20MH1A04H9/Prodigy_infoTech/blob/main/Tech4/keylogger.png)
+
+- [Network Packet Analyzer](https://www.wireshark.org/)
+A packet sniffer (also known as a packet analyzer, protocol analyzer, or network analyzer) is a piece of hardware or software that monitors network traffic. Sniffers examine streams of data packets that move between networked computers and the greater Internet.
 
 ## Support
 
